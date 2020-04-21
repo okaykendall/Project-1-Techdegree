@@ -177,15 +177,6 @@ a.social:hover {
   border: 4px solid #c2b054;
   border-radius: 20%;}
 
-.expheader: {
-  width: 150px;
-  margin:30px;
-  height: 150px;
-  text-align: center;
-  padding: 20px;
-  line-height: 1.5px;
-  display: in-line block;}
-
 .comp{
   text-align:left;
   display:inline-block;  
